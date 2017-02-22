@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void main() {
+int main() {
 	while (true)
-		cout << "ÄáÄá";
+		cout << "ì½©ì½©";
 }
